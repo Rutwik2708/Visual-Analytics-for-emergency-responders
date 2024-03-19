@@ -8,6 +8,7 @@ trigger:
 - master
 
 pool:
+  name: Azure Pipelines
   vmImage: VMADO
 
 steps:

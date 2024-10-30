@@ -7,16 +7,18 @@ This project, completed as part of **CSE 598: Data Visualization** at Arizona St
 Using **D3.js** and other JavaScript libraries, this dashboard synthesizes seismic data, citizen reports, and city infrastructure data to guide emergency planners. The visualization framework is based on the **Five Design Sheet Methodology**, promoting structured design and iterative development.
 
 ---
+## Complete Dashboard
+<img src="Images/CompleteDashboard.png" alt="Complete Dashboard" width="957">
 
 ## Dashboard Features
 
-<img src="Images/CompleteDashboard.png" alt="Complete Dashboard" width="957">
+
 
 
 1. **Choropleth Map and Bar Chart**
    Provides a comprehensive view of impacted regions, with user interaction features like detailed breakdowns upon clicking a neighborhood. The color saturation indicates severity, aiding quick prioritization.
    
-   ![Choropleth Map](<img width="1710" alt="Task1" src="https://github.com/user-attachments/assets/52f727b5-ea51-455b-b283-eb89913dacf6">) 
+   ![Choropleth Map](<src="https://github.com/user-attachments/assets/52f727b5-ea51-455b-b283-eb89913dacf6" img width="1710" alt="Task1">) 
    
 2. **Violin Chart**  
    Visualizes the distribution of shake intensity across neighborhoods, enabling comparative analysis of seismic impact and report reliability.

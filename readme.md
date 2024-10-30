@@ -10,7 +10,7 @@ Using **D3.js** and other JavaScript libraries, this dashboard synthesizes seism
 
 ## Dashboard Features
 
-![Complete Dashboard](<img width="957" alt="image" src="https://github.com/user-attachments/assets/a86098af-972a-4b1f-8407-9304502170c0">) 
+![Complete Dashboard](<img width="957" alt="image" src="Images/CompleteDashboard.png">) 
 
 1. **Choropleth Map and Bar Chart**
    Provides a comprehensive view of impacted regions, with user interaction features like detailed breakdowns upon clicking a neighborhood. The color saturation indicates severity, aiding quick prioritization.

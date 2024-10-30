@@ -18,27 +18,17 @@ Using **D3.js** and other JavaScript libraries, this dashboard synthesizes seism
 1. **Choropleth Map and Bar Chart**
    Provides a comprehensive view of impacted regions, with user interaction features like detailed breakdowns upon clicking a neighborhood. The color saturation indicates severity, aiding quick prioritization.
    
-   ![Choropleth Map](<src="https://github.com/user-attachments/assets/52f727b5-ea51-455b-b283-eb89913dacf6" img width="1710" alt="Task1">) 
-   
 2. **Violin Chart**  
    Visualizes the distribution of shake intensity across neighborhoods, enabling comparative analysis of seismic impact and report reliability.
-
-   ![Violin Chart](<img width="791" alt="Task2 1" src="https://github.com/user-attachments/assets/8c1eb03c-bbf0-484e-936b-147976a376b5">) 
 
 3. **Interactive Pie Charts**  
    Illustrates missing data patterns across different utilities within neighborhoods, helping to assess the reliability of neighborhood reports.
 
-   ![Pie Chart](![image](https://github.com/user-attachments/assets/ac6630a5-8e7d-461c-8ec2-1869acf9a76c)) 
-
 4. **Stream Graph**  
    Displays temporal changes in utility conditions, highlighting trends and spikes in utility disruptions over time.
 
-   ![Stream Graph](![image](https://github.com/user-attachments/assets/c598c361-2dd7-4b4c-81a8-9b5bf0b35a7a))
-
 5. **Bubble-o-Slope Graph**  
    Combines a bubble chart and slope graph to depict shifts in utility conditions across timeframes, assisting in understanding variations in utility impact.
-
-   ![Bubble-o-Slope Graph](![image](https://github.com/user-attachments/assets/4d5d3b98-ecd3-470a-82e2-200b7874b716))
 
 ---
 
